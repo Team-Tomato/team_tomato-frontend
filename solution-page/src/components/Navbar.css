@@ -1,0 +1,24 @@
+.borderBottom {
+    padding: 0 0 2px 0 !important;
+    margin: 10px;
+    border-bottom: 3px solid #ffffff;
+}
+
+.borderBottom:hover {
+    border-bottom: 3px solid #2ec0ff !important;
+}
+
+.active{
+    border-bottom: 3px solid #2ec0ff !important;
+}
+
+.navbar{
+    background-color: #ffffff!important;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+img{
+    height: 30px;
+    width: auto;
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Samaresh",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Mentos",
+        "projectDesc" : "I am Samaresh and I am a frontend web developer. I am a good boy",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": false,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Good",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Hawkeye",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Curtain",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Bad",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Masala Dosa",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Mendu Vada",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Kratos",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Mentos",
+        "projectDesc" : "I am Samaresh and I am a frontend web developer. I am a good boy",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Good",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Hawkeye",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Curtain",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Bad",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Masala Dosa",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    },
+    {
+        "projectImage" : "https://images.unsplash.com/photo-1593145134471-e91fe115022e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
+        "projectName" : "Project Mendu Vada",
+        "projectDesc" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, Yes I am good",
+        "techStack" : ["HTML","CSS","Javascript","React"],
+        "demoUrl" : "https://teamtomato.tech/#/",
+        "isCompleted": true,
+        "githubUrl" : "https://github.com/samaresh231"
+    }
+]

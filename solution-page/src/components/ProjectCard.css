@@ -1,0 +1,11 @@
+.card {
+    height: 35rem;
+    width: 18rem;
+    border-radius: 17px;
+    box-shadow: 0 0 10px #C0C0C0;
+}
+
+.image {
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
