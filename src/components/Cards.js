@@ -6,7 +6,8 @@ import './Cards.css'
 
 class Cards extends Component {
     render() {
-        return (
+        return (<div>
+            <h1 class="heading">Projects</h1>
             <Container>
                 <Row>
                     {CardData.map((cardDetail)=> {
@@ -14,6 +15,7 @@ class Cards extends Component {
                     })}
                 </Row>
             </Container>
+            </div>
         );
     }
 }
