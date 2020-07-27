@@ -28,6 +28,9 @@ line-height: 10px;
   .text {
     width: 100%;
   }
+  .indentCorrection{
+    width: 100%;
+  }
 }
 
 .violet{
@@ -42,6 +45,6 @@ line-height: 10px;
 
 .indentCorrection {
   margin-left: 0px;
-  width:70rem;
-  height:10rem
+  width:100%;
+  height:auto;
 }
