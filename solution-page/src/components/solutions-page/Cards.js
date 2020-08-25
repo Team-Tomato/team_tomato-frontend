@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import {Container, Row, Col} from 'react-bootstrap';
 import ProjectCard from './ProjectCard'
-import CardData from '../projects.json'
-import './Cards.css'
+import CardData from './projects.json'
 
 class Cards extends Component {
     render() {

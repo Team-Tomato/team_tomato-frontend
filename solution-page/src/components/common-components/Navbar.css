@@ -1,24 +1,29 @@
-.borderBottom {
+.Navbar-element {
     padding: 0 0 2px 0 !important;
     margin: 10px;
-    border-bottom: 3px solid #ffffff;
 }
 
-.borderBottom:hover {
+.Navbar-active{
     border-bottom: 3px solid #2ec0ff !important;
 }
 
-.active{
-    border-bottom: 3px solid #2ec0ff !important;
-}
-
-.navbar{
+.Navbar-navbar{
     background-color: #ffffff!important;
     font-weight: 400;
     font-size: 1.25rem;
 }
 
-img{
+.Navbar-img{
     height: 30px;
     width: auto;
+}
+
+.Navbar-navlink {
+    color: black;
+}
+
+.Navbar-navlink:hover {
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px solid #2ec0ff !important;
 }
