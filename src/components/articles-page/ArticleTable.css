@@ -1,0 +1,10 @@
+.ArticleTable {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.ArticleTable-table {
+    background-color: white;
+    box-shadow: 0 0 10px #C0C0C0;
+}
+
