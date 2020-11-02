@@ -3,6 +3,17 @@ import {Card, Button } from 'react-bootstrap';
 import "./ProjectCard.css";
 import Fade from 'react-reveal/Fade';
 
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9P1N4S2307"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9P1N4S2307');
+</script>
+</head>
+
 class ProjectCard extends React.Component{
   render(){
     return(

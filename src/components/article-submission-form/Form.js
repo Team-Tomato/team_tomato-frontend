@@ -1,6 +1,18 @@
 import React from 'react';
 import {Container, Row, Col} from 'react-bootstrap';
 import './Form.css';
+
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9P1N4S2307"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9P1N4S2307');
+</script>
+</head>
+
 class Form extends React.Component{
     render(){
         return(

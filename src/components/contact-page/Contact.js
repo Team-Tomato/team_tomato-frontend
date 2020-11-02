@@ -8,6 +8,17 @@ import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 import styled from 'styled-components';
 
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9P1N4S2307"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9P1N4S2307');
+</script>
+</head>
+
 const StyledTextField = styled(TextField)`{
     label.Mui-focused {
       color: violet;

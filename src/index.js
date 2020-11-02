@@ -4,6 +4,17 @@ import {BrowserRouter} from 'react-router-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9P1N4S2307"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9P1N4S2307');
+</script>
+</head>
+
 ReactDOM.render(
   <BrowserRouter>
     <App />

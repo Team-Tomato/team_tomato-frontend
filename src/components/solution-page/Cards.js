@@ -4,6 +4,17 @@ import ProjectCard from './ProjectCard';
 import CardData from './projects.json';
 import './Cards.css';
 
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9P1N4S2307"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9P1N4S2307');
+</script>
+</head>
+
 class Cards extends Component {
     render() {
         return (
